@@ -1,0 +1,2524 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.182327,39.956565 ]
+    },
+    "properties": {
+    "id":95001,
+    "name":"30TH ST. PHL."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.502094,39.424333 ]
+    },
+    "properties": {
+    "id":95002,
+    "name":"ABSECON"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.130957,41.030902 ]
+    },
+    "properties": {
+    "id":95003,
+    "name":"ALLENDALE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.006769,40.237659 ]
+    },
+    "properties": {
+    "id":95004,
+    "name":"ALLENHURST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.043781,40.894458 ]
+    },
+    "properties": {
+    "id":95005,
+    "name":"ANDERSON STREET"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.878569,40.645173 ]
+    },
+    "properties": {
+    "id":95006,
+    "name":"ANNANDALE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.014786,40.215359 ]
+    },
+    "properties": {
+    "id":95008,
+    "name":"ASBURY PARK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.907588,39.783547 ]
+    },
+    "properties": {
+    "id":95009,
+    "name":"ATCO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.441486,39.363299 ]
+    },
+    "properties": {
+    "id":95010,
+    "name":"ATLANTIC CITY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.27753,40.57762 ]
+    },
+    "properties": {
+    "id":95011,
+    "name":"AVENEL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.55527,40.711378 ]
+    },
+    "properties": {
+    "id":95012,
+    "name":"BASKING RIDGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.046183,40.077178 ]
+    },
+    "properties": {
+    "id":95013,
+    "name":"BAY HEAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.208681,40.808178 ]
+    },
+    "properties": {
+    "id":95014,
+    "name":"BAY STREET"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.027301,40.18059 ]
+    },
+    "properties": {
+    "id":95015,
+    "name":"BELMAR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.442649,40.682345 ]
+    },
+    "properties": {
+    "id":95017,
+    "name":"BERKELEY HEIGHTS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.571023,40.716845 ]
+    },
+    "properties": {
+    "id":95018,
+    "name":"BERNARDSVILLE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.200043,40.792709 ]
+    },
+    "properties": {
+    "id":95019,
+    "name":"BLOOMFIELD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.407736,40.903378 ]
+    },
+    "properties": {
+    "id":95020,
+    "name":"BOONTON"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.530617,40.560929 ]
+    },
+    "properties": {
+    "id":95021,
+    "name":"BOUND BROOK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.018891,40.203751 ]
+    },
+    "properties": {
+    "id":95022,
+    "name":"BRADLEY BEACH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.218612,40.765134 ]
+    },
+    "properties": {
+    "id":95023,
+    "name":"BRICK CHURCH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.551741,40.559904 ]
+    },
+    "properties": {
+    "id":95024,
+    "name":"BRIDGEWATER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.115236,40.922505 ]
+    },
+    "properties": {
+    "id":95025,
+    "name":"BROADWAY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.266554,41.450917 ]
+    },
+    "properties": {
+    "id":95026,
+    "name":"CAMPBELL HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.384812,40.740137 ]
+    },
+    "properties": {
+    "id":95027,
+    "name":"CHATHAM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.041661,39.928447 ]
+    },
+    "properties": {
+    "id":95028,
+    "name":"CHERRY HILL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.153206,40.867998 ]
+    },
+    "properties": {
+    "id":95029,
+    "name":"CLIFTON"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.443435,40.779038 ]
+    },
+    "properties": {
+    "id":95030,
+    "name":"CONVENT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.266323,40.66715 ]
+    },
+    "properties": {
+    "id":95031,
+    "name":"ROSELLE PARK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.303226,40.655523 ]
+    },
+    "properties": {
+    "id":95032,
+    "name":"CRANFORD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.131262,40.831369 ]
+    },
+    "properties": {
+    "id":95033,
+    "name":"DELAWANNA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.481513,40.8839 ]
+    },
+    "properties": {
+    "id":95034,
+    "name":"DENVILLE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.555887,40.883415 ]
+    },
+    "properties": {
+    "id":95035,
+    "name":"DOVER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.463043,40.590869 ]
+    },
+    "properties": {
+    "id":95036,
+    "name":"DUNELLEN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.210464,40.760977 ]
+    },
+    "properties": {
+    "id":95037,
+    "name":"EAST ORANGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.410972,40.519148 ]
+    },
+    "properties": {
+    "id":95038,
+    "name":"EDISON STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.648028,39.526441 ]
+    },
+    "properties": {
+    "id":95039,
+    "name":"EGG HARBOR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99762,40.265292 ]
+    },
+    "properties": {
+    "id":95040,
+    "name":"ELBERON"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.215174,40.667857 ]
+    },
+    "properties": {
+    "id":95041,
+    "name":"ELIZABETH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.027474,40.975036 ]
+    },
+    "properties": {
+    "id":95042,
+    "name":"EMERSON"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.051893,40.878973 ]
+    },
+    "properties": {
+    "id":95043,
+    "name":"ESSEX STREET"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.385003,40.64106 ]
+    },
+    "properties": {
+    "id":95044,
+    "name":"FANWOOD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.633734,40.68571 ]
+    },
+    "properties": {
+    "id":95045,
+    "name":"FAR HILLS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.10556,40.866669 ]
+    },
+    "properties": {
+    "id":95046,
+    "name":"GARFIELD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.324794,40.652569 ]
+    },
+    "properties": {
+    "id":95047,
+    "name":"GARWOOD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.468317,40.678251 ]
+    },
+    "properties": {
+    "id":95048,
+    "name":"GILLETTE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.666371,40.720284 ]
+    },
+    "properties": {
+    "id":95049,
+    "name":"GLADSTONE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.204655,40.80059 ]
+    },
+    "properties": {
+    "id":95050,
+    "name":"GLEN RIDGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.1293,40.96137 ]
+    },
+    "properties": {
+    "id":95051,
+    "name":"GLEN ROCK BORO HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.133485,40.962206 ]
+    },
+    "properties": {
+    "id":95052,
+    "name":"GLEN ROCK MAIN LINE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.835352,40.851444 ]
+    },
+    "properties": {
+    "id":95054,
+    "name":"HACKETTSTOWN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.79946,39.631673 ]
+    },
+    "properties": {
+    "id":95055,
+    "name":"HAMMONTON"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.13987,41.293354 ]
+    },
+    "properties": {
+    "id":95057,
+    "name":"HARRIMAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.152411,40.942539 ]
+    },
+    "properties": {
+    "id":95058,
+    "name":"HAWTHORNE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.190393,40.415385 ]
+    },
+    "properties": {
+    "id":95059,
+    "name":"HAZLET"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.895863,40.666884 ]
+    },
+    "properties": {
+    "id":95060,
+    "name":"HIGH BRIDGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.243744,40.766863 ]
+    },
+    "properties": {
+    "id":95061,
+    "name":"HIGHLAND AVENUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.041033,41.002414 ]
+    },
+    "properties": {
+    "id":95062,
+    "name":"HILLSDALE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.028046,40.734843 ]
+    },
+    "properties": {
+    "id":95063,
+    "name":"HOBOKEN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.113521,40.997369 ]
+    },
+    "properties": {
+    "id":95064,
+    "name":"HOHOKUS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.117334,40.810121 ]
+    },
+    "properties": {
+    "id":95066,
+    "name":"KINGSLAND"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.665697,40.904219 ]
+    },
+    "properties": {
+    "id":95067,
+    "name":"LAKE HOPATCONG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.835766,40.636903 ]
+    },
+    "properties": {
+    "id":95068,
+    "name":"LEBANON"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.301826,40.924138 ]
+    },
+    "properties": {
+    "id":95069,
+    "name":"LINCOLN PARK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.251772,40.629485 ]
+    },
+    "properties": {
+    "id":95070,
+    "name":"LINDEN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.000314,39.833809 ]
+    },
+    "properties": {
+    "id":95071,
+    "name":"LINDENWOLD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.235372,40.880669 ]
+    },
+    "properties": {
+    "id":95072,
+    "name":"LITTLE FALLS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.041054,40.326715 ]
+    },
+    "properties": {
+    "id":95073,
+    "name":"LITTLE SILVER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.988331,40.297145 ]
+    },
+    "properties": {
+    "id":95074,
+    "name":"LONG BRANCH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.124164,40.816473 ]
+    },
+    "properties": {
+    "id":95075,
+    "name":"LYNDHURST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.54947,40.684844 ]
+    },
+    "properties": {
+    "id":95076,
+    "name":"LYONS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.415105,40.757028 ]
+    },
+    "properties": {
+    "id":95077,
+    "name":"MADISON"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.14662,41.094416 ]
+    },
+    "properties": {
+    "id":95078,
+    "name":"MAHWAH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.047688,40.120573 ]
+    },
+    "properties": {
+    "id":95079,
+    "name":"MANASQUAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.275427,40.731149 ]
+    },
+    "properties": {
+    "id":95081,
+    "name":"MAPLEWOOD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.329394,40.56864 ]
+    },
+    "properties": {
+    "id":95083,
+    "name":"METROPARK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.360671,40.540736 ]
+    },
+    "properties": {
+    "id":95084,
+    "name":"METUCHEN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.116131,40.38978 ]
+    },
+    "properties": {
+    "id":95085,
+    "name":"MIDDLETOWN NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.37039,41.457488 ]
+    },
+    "properties": {
+    "id":95086,
+    "name":"MIDDLETOWN NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.303755,40.725622 ]
+    },
+    "properties": {
+    "id":95087,
+    "name":"MILLBURN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.523606,40.673513 ]
+    },
+    "properties": {
+    "id":95088,
+    "name":"MILLINGTON"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.2025,40.857536 ]
+    },
+    "properties": {
+    "id":95089,
+    "name":"MONTCLAIR HEIGHTS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.029152,41.040879 ]
+    },
+    "properties": {
+    "id":95090,
+    "name":"MONTVALE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.478197,40.828637 ]
+    },
+    "properties": {
+    "id":95091,
+    "name":"MORRIS PLAINS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.474086,40.797113 ]
+    },
+    "properties": {
+    "id":95092,
+    "name":"MORRISTOWN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.730653,40.907376 ]
+    },
+    "properties": {
+    "id":95093,
+    "name":"MOUNT OLIVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.481915,40.875904 ]
+    },
+    "properties": {
+    "id":95094,
+    "name":"MOUNT TABOR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.205306,40.848715 ]
+    },
+    "properties": {
+    "id":95095,
+    "name":"MOUNTAIN AVENUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.433604,40.885947 ]
+    },
+    "properties": {
+    "id":95096,
+    "name":"MOUNTAIN LAKES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.253024,40.755365 ]
+    },
+    "properties": {
+    "id":95097,
+    "name":"MOUNTAIN STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.268158,40.914402 ]
+    },
+    "properties": {
+    "id":95098,
+    "name":"MOUNTAIN VIEW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.403134,40.695068 ]
+    },
+    "properties": {
+    "id":95099,
+    "name":"MURRAY HILL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.014794,41.090015 ]
+    },
+    "properties": {
+    "id":95100,
+    "name":"NANUET"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.707317,40.897552 ]
+    },
+    "properties": {
+    "id":95101,
+    "name":"NETCONG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.403455,40.629148 ]
+    },
+    "properties": {
+    "id":95102,
+    "name":"NETHERWOOD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.445751,40.497278 ]
+    },
+    "properties": {
+    "id":95103,
+    "name":"NEW BRUNSWICK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.386501,40.712022 ]
+    },
+    "properties": {
+    "id":95104,
+    "name":"NEW PROVIDENCE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.992358,40.750046 ]
+    },
+    "properties": {
+    "id":95105,
+    "name":"NEW YORK PENN STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.171943,40.747621 ]
+    },
+    "properties": {
+    "id":95106,
+    "name":"NEWARK BROAD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.164554,40.734221 ]
+    },
+    "properties": {
+    "id":95107,
+    "name":"NEWARK PENN STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.683802,40.59202 ]
+    },
+    "properties": {
+    "id":95108,
+    "name":"NORTH BRANCH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.206165,40.680265 ]
+    },
+    "properties": {
+    "id":95109,
+    "name":"NORTH ELIZABETH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.035044,40.910856 ]
+    },
+    "properties": {
+    "id":95110,
+    "name":"NEW BRIDGE LANDING"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.029983,40.953478 ]
+    },
+    "properties": {
+    "id":95111,
+    "name":"ORADELL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.233103,40.771883 ]
+    },
+    "properties": {
+    "id":95112,
+    "name":"ORANGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.529212,41.471784 ]
+    },
+    "properties": {
+    "id":95113,
+    "name":"OTISVILLE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.036164,41.032305 ]
+    },
+    "properties": {
+    "id":95114,
+    "name":"PARK RIDGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.133933,40.849411 ]
+    },
+    "properties": {
+    "id":95115,
+    "name":"PASSAIC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.16733,40.914887 ]
+    },
+    "properties": {
+    "id":95116,
+    "name":"PATERSON"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.658469,40.708794 ]
+    },
+    "properties": {
+    "id":95117,
+    "name":"PEAPACK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.02232,41.058181 ]
+    },
+    "properties": {
+    "id":95118,
+    "name":"PEARL RIVER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.273752,40.509398 ]
+    },
+    "properties": {
+    "id":95119,
+    "name":"PERTH AMBOY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.420163,40.618425 ]
+    },
+    "properties": {
+    "id":95120,
+    "name":"PLAINFIELD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.102695,40.884916 ]
+    },
+    "properties": {
+    "id":95121,
+    "name":"PLAUDERVILLE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.048191,40.092718 ]
+    },
+    "properties": {
+    "id":95122,
+    "name":"POINT PLEASANT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.694622,41.374899 ]
+    },
+    "properties": {
+    "id":95123,
+    "name":"PORT JERVIS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.65887,40.342088 ]
+    },
+    "properties": {
+    "id":95124,
+    "name":"PRINCETON"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.623753,40.316316 ]
+    },
+    "properties": {
+    "id":95125,
+    "name":"PRINCETON JCT."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.121617,40.939914 ]
+    },
+    "properties": {
+    "id":95126,
+    "name":"RADBURN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.276692,40.606338 ]
+    },
+    "properties": {
+    "id":95127,
+    "name":"RAHWAY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.141877,41.056422 ]
+    },
+    "properties": {
+    "id":95128,
+    "name":"RAMSEY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.634364,40.571005 ]
+    },
+    "properties": {
+    "id":95129,
+    "name":"RARITAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.074538,40.348284 ]
+    },
+    "properties": {
+    "id":95130,
+    "name":"RED BANK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.120592,40.980629 ]
+    },
+    "properties": {
+    "id":95131,
+    "name":"RIDGEWOOD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.02914,40.935146 ]
+    },
+    "properties": {
+    "id":95132,
+    "name":"RIVER EDGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.100563,40.828248 ]
+    },
+    "properties": {
+    "id":95134,
+    "name":"RUTHERFORD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.101871,41.437073 ]
+    },
+    "properties": {
+    "id":95135,
+    "name":"SALISBURY MILLS-CORNWALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.323754,40.725249 ]
+    },
+    "properties": {
+    "id":95136,
+    "name":"SHORT HILLS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.191307,41.157138 ]
+    },
+    "properties": {
+    "id":95137,
+    "name":"SLOATSBURG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.61397,40.566075 ]
+    },
+    "properties": {
+    "id":95138,
+    "name":"SOMERVILLE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.28014,40.484308 ]
+    },
+    "properties": {
+    "id":95139,
+    "name":"SOUTH AMBOY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.260538,40.745952 ]
+    },
+    "properties": {
+    "id":95140,
+    "name":"SOUTH ORANGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.035481,40.150557 ]
+    },
+    "properties": {
+    "id":95141,
+    "name":"SPRING LAKE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.043991,41.111978 ]
+    },
+    "properties": {
+    "id":95142,
+    "name":"SPRING VALLEY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.493723,40.674579 ]
+    },
+    "properties": {
+    "id":95143,
+    "name":"STIRLING"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.153442,41.11354 ]
+    },
+    "properties": {
+    "id":95144,
+    "name":"SUFFERN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.357807,40.716549 ]
+    },
+    "properties": {
+    "id":95145,
+    "name":"SUMMIT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.062676,40.864858 ]
+    },
+    "properties": {
+    "id":95146,
+    "name":"TETERBORO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.343842,40.922809 ]
+    },
+    "properties": {
+    "id":95147,
+    "name":"TOWACO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.753926,40.218515 ]
+    },
+    "properties": {
+    "id":95148,
+    "name":"TRENTON TRANSIT CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.18446,41.194208 ]
+    },
+    "properties": {
+    "id":95149,
+    "name":"TUXEDO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.209368,40.842004 ]
+    },
+    "properties": {
+    "id":95150,
+    "name":"UPPER MONTCLAIR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.123412,41.012734 ]
+    },
+    "properties": {
+    "id":95151,
+    "name":"WALDWICK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.20963,40.817218 ]
+    },
+    "properties": {
+    "id":95152,
+    "name":"WALNUT STREET"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.206934,40.829514 ]
+    },
+    "properties": {
+    "id":95153,
+    "name":"WATCHUNG AVENUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.198451,40.782743 ]
+    },
+    "properties": {
+    "id":95154,
+    "name":"WATSESSING AVENUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.347629,40.649448 ]
+    },
+    "properties": {
+    "id":95155,
+    "name":"WESTFIELD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.032696,40.990817 ]
+    },
+    "properties": {
+    "id":95156,
+    "name":"WESTWOOD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.77066,40.615611 ]
+    },
+    "properties": {
+    "id":95157,
+    "name":"WHITE HOUSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.277751,40.55661 ]
+    },
+    "properties": {
+    "id":95158,
+    "name":"WOODBRIDGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.040775,41.021078 ]
+    },
+    "properties": {
+    "id":95159,
+    "name":"WOODCLIFF LAKE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.078719,40.843974 ]
+    },
+    "properties": {
+    "id":95160,
+    "name":"WOOD-RIDGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.170883,40.737449 ]
+    },
+    "properties": {
+    "id":30770,
+    "name":"MILITARY PARK LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.178272,40.77239 ]
+    },
+    "properties": {
+    "id":30763,
+    "name":"DAVENPORT AVENUE LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.183033,40.745319 ]
+    },
+    "properties": {
+    "id":30767,
+    "name":"NORFOLK STREET LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.184941,40.75856 ]
+    },
+    "properties": {
+    "id":30765,
+    "name":"PARK AVENUE NEWARK LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.181183,40.742439 ]
+    },
+    "properties": {
+    "id":30768,
+    "name":"WARREN STREET LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.174081,40.738347 ]
+    },
+    "properties": {
+    "id":30769,
+    "name":"WASHINGTON STREET LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.012921,40.775919 ]
+    },
+    "properties": {
+    "id":30825,
+    "name":"PORT IMPERIAL HBLR STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.179863,40.76546 ]
+    },
+    "properties": {
+    "id":30764,
+    "name":"BLOOMFIELD AVENUE LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.184951,40.750629 ]
+    },
+    "properties": {
+    "id":30766,
+    "name":"ORANGE STREET LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.024,40.761399 ]
+    },
+    "properties": {
+    "id":30826,
+    "name":"LINCOLN HARBOR LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.174752,40.779638 ]
+    },
+    "properties": {
+    "id":30762,
+    "name":"BRANCH BROOK PARK LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.163603,40.73481 ]
+    },
+    "properties": {
+    "id":30771,
+    "name":"PENN STATION LIGHT RAIL DEPARTURE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.70412,40.255309 ]
+    },
+    "properties": {
+    "id":95163,
+    "name":"HAMILTON"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.467363,40.476912 ]
+    },
+    "properties": {
+    "id":95065,
+    "name":"JERSEY AVE."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.034092,40.716009 ]
+    },
+    "properties": {
+    "id":30833,
+    "name":"EXCHANGE PLACE LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.036082,40.712838 ]
+    },
+    "properties": {
+    "id":30834,
+    "name":"ESSEX STREET LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.043241,40.714428 ]
+    },
+    "properties": {
+    "id":30835,
+    "name":"MARIN BOULEVARD LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.048491,40.714978 ]
+    },
+    "properties": {
+    "id":30836,
+    "name":"JERSEY AVENUE LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.055812,40.710378 ]
+    },
+    "properties": {
+    "id":30837,
+    "name":"LIBERTY STATE PARK-RIDE LIGHT RAIL STA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.07112,40.710509 ]
+    },
+    "properties": {
+    "id":30838,
+    "name":"GARFIELD AVENUE LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.077323,40.712008 ]
+    },
+    "properties": {
+    "id":30839,
+    "name":"MLK DRIVE LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.087581,40.714548 ]
+    },
+    "properties": {
+    "id":30840,
+    "name":"WEST SIDE AVENUE LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.078643,40.699118 ]
+    },
+    "properties": {
+    "id":30841,
+    "name":"RICHARD STREET LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.087262,40.692357 ]
+    },
+    "properties": {
+    "id":30842,
+    "name":"DANFORTH AVENUE LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.101673,40.67867 ]
+    },
+    "properties": {
+    "id":30843,
+    "name":"45TH STREET LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.107493,40.671778 ]
+    },
+    "properties": {
+    "id":30844,
+    "name":"34TH STREET LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.223702,40.420161 ]
+    },
+    "properties": {
+    "id":95082,
+    "name":"ABERDEEN-MATAWAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.034003,40.719519 ]
+    },
+    "properties": {
+    "id":30832,
+    "name":"HARBORSIDE LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.037281,40.722668 ]
+    },
+    "properties": {
+    "id":30831,
+    "name":"HARSIMUS COVE LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.036233,40.726819 ]
+    },
+    "properties": {
+    "id":30830,
+    "name":"NEWPORT LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.190717,40.704415 ]
+    },
+    "properties": {
+    "id":95164,
+    "name":"NEWARK AIRPORT RAILROAD STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.180343,40.780287 ]
+    },
+    "properties": {
+    "id":30540,
+    "name":"SILVER LAKE LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.187931,40.780317 ]
+    },
+    "properties": {
+    "id":30539,
+    "name":"GROVE STREET LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.197439,40.869782 ]
+    },
+    "properties": {
+    "id":95165,
+    "name":"MSU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.238605,40.683663 ]
+    },
+    "properties": {
+    "id":95166,
+    "name":"UNION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.075821,40.761188 ]
+    },
+    "properties": {
+    "id":95167,
+    "name":"FRANK R LAUTENBERG SECAUCUS LOWER LEVEL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.075821,40.761188 ]
+    },
+    "properties": {
+    "id":95168,
+    "name":"FRANK R LAUTENBERG SECAUCUS UPPER LEVEL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.11641,40.661277 ]
+    },
+    "properties": {
+    "id":30845,
+    "name":"22ND STREET LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.755194,40.218348 ]
+    },
+    "properties": {
+    "id":30855,
+    "name":"TRENTON TRANSIT CENTER LIGHT RAIL STA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.755882,40.211928 ]
+    },
+    "properties": {
+    "id":30856,
+    "name":"HAMILTON AVENUE LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.754313,40.205409 ]
+    },
+    "properties": {
+    "id":30857,
+    "name":"CASS STREET LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.716271,40.14811 ]
+    },
+    "properties": {
+    "id":30858,
+    "name":"BORDENTOWN LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.770202,40.116909 ]
+    },
+    "properties": {
+    "id":30859,
+    "name":"ROEBLING LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.805112,40.100048 ]
+    },
+    "properties": {
+    "id":30860,
+    "name":"FLORENCE LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.859421,40.077358 ]
+    },
+    "properties": {
+    "id":30861,
+    "name":"BURLINGTON TOWNE CTR LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.868981,40.074558 ]
+    },
+    "properties": {
+    "id":30862,
+    "name":"BURLINGTON SOUTH LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.915131,40.06112 ]
+    },
+    "properties": {
+    "id":30863,
+    "name":"BEVERLY/EDGEWATER PARK LIGHT RAIL STA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.95028,40.048068 ]
+    },
+    "properties": {
+    "id":30864,
+    "name":"DELANCO LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.958842,40.039219 ]
+    },
+    "properties": {
+    "id":30865,
+    "name":"RIVERSIDE LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.999942,40.016557 ]
+    },
+    "properties": {
+    "id":30866,
+    "name":"CINNAMINSON LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.013082,40.008939 ]
+    },
+    "properties": {
+    "id":30867,
+    "name":"RIVERTON LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.020391,40.004659 ]
+    },
+    "properties": {
+    "id":30868,
+    "name":"PALMYRA LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.03961,39.993109 ]
+    },
+    "properties": {
+    "id":30869,
+    "name":"ROUTE 73/PENNSAUKEN LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.079622,39.96096 ]
+    },
+    "properties": {
+    "id":30870,
+    "name":"36TH STREET LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.12021,39.943258 ]
+    },
+    "properties": {
+    "id":30871,
+    "name":"WALTER RAND TRANSPORTATION CTR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.12407,39.947598 ]
+    },
+    "properties": {
+    "id":30872,
+    "name":"COOPER STREET/RUTGERS LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.128682,39.945658 ]
+    },
+    "properties": {
+    "id":30873,
+    "name":"AQUARIUM LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.128473,39.94094 ]
+    },
+    "properties": {
+    "id":30874,
+    "name":"ENTERTAINMENT CENTER LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.145485,41.07513 ]
+    },
+    "properties": {
+    "id":95170,
+    "name":"RAMSEY ROUTE 17 STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.042821,40.74174 ]
+    },
+    "properties": {
+    "id":30828,
+    "name":"2ND STREET LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.038522,40.748867 ]
+    },
+    "properties": {
+    "id":30827,
+    "name":"9TH STREET LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.022271,40.782225 ]
+    },
+    "properties": {
+    "id":30824,
+    "name":"BERGENLINE AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.031263,40.78733 ]
+    },
+    "properties": {
+    "id":30823,
+    "name":"TONNELLE AVENUE LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.17151,40.747209 ]
+    },
+    "properties": {
+    "id":30775,
+    "name":"BROAD STREET LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.169202,40.74559 ]
+    },
+    "properties": {
+    "id":30774,
+    "name":"RIVERFRONT STADIUM LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.169853,40.743938 ]
+    },
+    "properties": {
+    "id":30776,
+    "name":"WASHINGTON PARK LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.168491,40.74416 ]
+    },
+    "properties": {
+    "id":30773,
+    "name":"ATLANTIC STREET LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.16558,40.739498 ]
+    },
+    "properties": {
+    "id":30772,
+    "name":"NJPAC/CENTRE STREET LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.029192,40.734059 ]
+    },
+    "properties": {
+    "id":30829,
+    "name":"HOBOKEN TERMINAL LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.632731,40.89659 ]
+    },
+    "properties": {
+    "id":95171,
+    "name":"MOUNT ARLINGTON"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.256971,40.900254 ]
+    },
+    "properties": {
+    "id":95172,
+    "name":"WAYNE/ROUTE 23 TRANSIT CENTER [RR]"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.072114,40.813053 ]
+    },
+    "properties": {
+    "id":95174,
+    "name":"MEADOWLANDS SPORTS COMPLEX STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.163603,40.73481 ]
+    },
+    "properties": {
+    "id":31061,
+    "name":"PENN STATION LIGHT RAIL ARRIVAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.129142,40.654298 ]
+    },
+    "properties": {
+    "id":31145,
+    "name":"8TH STREET LIGHT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.061962,39.978276 ]
+    },
+    "properties": {
+    "id":31898,
+    "name":"PENNSAUKEN TRANSIT CENTER LIGHT RAIL STA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.061796,39.977769 ]
+    },
+    "properties": {
+    "id":95183,
+    "name":"PENNSAUKEN TRANSIT CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.096951,40.854979 ]
+    },
+    "properties": {
+    "id":95184,
+    "name":"WESMONT"
+    }
+  }
+]
+}
